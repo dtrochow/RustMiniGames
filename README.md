@@ -1,4 +1,4 @@
-# rust_built_with_C
+# Rust Mini Games
 
 # Automatically generating the C API for Rust crate
 
