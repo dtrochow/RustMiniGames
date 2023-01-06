@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug rumiga (GDB)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/bin/rumiga",
+            "args": [
+                "hex",
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
