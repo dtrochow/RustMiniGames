@@ -1,4 +1,4 @@
-function(cargo_build)
+ function(cargo_build)
     cmake_parse_arguments(CARGO "" "NAME" "" ${ARGN})
     string(REPLACE "-" "_" LIB_NAME ${CARGO_NAME})
 

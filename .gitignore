@@ -33,3 +33,6 @@
 
 .vscode/
 build
+
+# Rust related
+Cargo.lock

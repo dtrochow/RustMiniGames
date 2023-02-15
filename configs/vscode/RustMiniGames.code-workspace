@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"cmake.buildDirectory": "${workspaceFolder}/build/cpp",
+		"clang-format.executable": "/usr/bin/clang-format-12",
+		"[c]": {
+			"editor.defaultFormatter": "xaver.clang-format"
+		},
+		"[cpp]": {
+			"editor.defaultFormatter": "xaver.clang-format"
+		},
+		"[rust]": {
+			"editor.defaultFormatter": "rust-lang.rust-analyzer"
+		}
+	}
+}

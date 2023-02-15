@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "src/games/test-lib",
+    "src/games/guess-number",
+    "src/rumiga-core"
+]
